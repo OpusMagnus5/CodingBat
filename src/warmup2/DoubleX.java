@@ -22,5 +22,4 @@ public class DoubleX {
         }
         return false;
     }
-
 }
